@@ -1,6 +1,6 @@
 SITE_ID = 1
 
-SITE_URL = "http://dev.drderma.com.br"
+SITE_URL = "http://example.drderma.bertoche.com.br"
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
