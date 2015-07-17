@@ -1,89 +1,0 @@
-10
-
-dir
-65
-http://127.0.0.1/svn/drderma/apps
-http://127.0.0.1/svn/drderma
-
-
-
-2013-04-17T03:18:29.806686Z
-63
-urielbertoche
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-4ae2ed50-7a51-453a-88c0-21d2bb99dc99
-
-fileupload
-dir
-
-system
-dir
-
-config
-dir
-
-treatments
-dir
-
-__init__.py
-file
-
-
-
-
-2012-10-18T04:33:09.000000Z
-d41d8cd98f00b204e9800998ecf8427e
-2012-10-18T04:30:02.588147Z
-1
-urielbertoche
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-0
-
-paypal
-dir
-
-patients
-dir
-
-notifications
-dir
-
-doctors
-dir
-
-accounts
-dir
-
