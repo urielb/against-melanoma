@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/drderma/!svn/ver/56/apps/accounts
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/drderma/!svn/ver/48/apps/accounts/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/drderma/!svn/ver/1/apps/accounts/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/drderma/!svn/ver/56/apps/accounts/models.py
+END
+backends.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/drderma/!svn/ver/1/apps/accounts/backends.py
+END

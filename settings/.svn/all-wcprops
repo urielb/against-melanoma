@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/drderma/!svn/ver/61/settings
+END
+emails.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/drderma/!svn/ver/57/settings/emails.py
+END
+env_prod.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/drderma/!svn/ver/57/settings/env_prod.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/drderma/!svn/ver/56/settings/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/drderma/!svn/ver/61/settings/utils.py
+END
+installed_apps.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/drderma/!svn/ver/56/settings/installed_apps.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/drderma/!svn/ver/61/settings/config.py
+END
+logging.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/drderma/!svn/ver/1/settings/logging.py
+END
+paypal.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/drderma/!svn/ver/57/settings/paypal.py
+END

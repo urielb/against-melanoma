@@ -1,0 +1,2 @@
+* * * * * cd /home/drderma/drderma/drderma/ && /home/drderma/drderma/bin/python /home/drderma/drderma/drderma/manage.py send_mail > /home/drderma/drderma/drderma/sendmail.log 2>&1
+0,20,40 * * * * cd /home/drderma/drderma/drderma/ && /home/drderma/drderma/bin/python /home/drderma/drderma/drderma/manage.py retry_deferred > /home/drderma/drderma/drderma/sendmail_deferred.log 2>&1

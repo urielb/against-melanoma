@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/drderma/!svn/ver/38/apps/notifications/tests
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/drderma/!svn/ver/38/apps/notifications/tests/__init__.py
+END
+tests_views_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/drderma/!svn/ver/38/apps/notifications/tests/tests_views_tests.py
+END
+tests_models.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/drderma/!svn/ver/38/apps/notifications/tests/tests_models.py
+END

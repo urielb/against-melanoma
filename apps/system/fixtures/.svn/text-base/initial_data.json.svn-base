@@ -1,0 +1,38 @@
+[
+  {
+    "pk": 1,
+    "model": "system.config",
+    "fields": {
+      "key": "treatment_price",
+      "description": "valor da consulta",
+      "value": "45.00"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "system.config",
+    "fields": {
+      "key": "treatment_time_limit",
+      "description": "tempo limite em horas para o medico responder a consulta em horas",
+      "value": "72"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "system.config",
+    "fields": {
+      "key": "min_num_photos",
+      "description": "numero minimo de fotos requeridas",
+      "value": "5"
+    }
+  },
+  {
+      "pk": 4,
+      "model": "system.config",
+      "fields": {
+        "key": "free_treatments",
+        "description": "numero de gratuidades",
+        "value": "10"
+      }
+    }
+]

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/drderma/!svn/ver/10/apps/patients/admin
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/drderma/!svn/ver/1/apps/patients/admin/__init__.py
+END
+patients_admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/drderma/!svn/ver/1/apps/patients/admin/patients_admin.py
+END

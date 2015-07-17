@@ -1,0 +1,30 @@
+SITE_ID = 1
+
+<<<<<<< .mine
+SITE_URL = "http://www.drderma.com.br"
+
+DEBUG = False
+=======
+DEBUG = True
+>>>>>>> .r41
+TEMPLATE_DEBUG = DEBUG
+SERVE_MEDIA = True
+SERVE_STATIC = True
+DATABASES = {
+    'default': {
+<<<<<<< .mine
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'drderma',
+        'USER': 'drderma',
+        'PASSWORD': 'K32tHeUNAUFUShNX',
+=======
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': 'drderma.db',
+        'USER': '',
+        'PASSWORD': '',
+>>>>>>> .r41
+        'HOST': '',
+        'PORT': '',
+    }
+}
+
