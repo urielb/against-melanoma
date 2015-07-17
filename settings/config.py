@@ -52,7 +52,7 @@ STATIC_ROOT = LOCAL('static_root')
 # SITE_URL = 'http://%s' % DEV_IP
 
 if is_production():
-    SITE_URL = 'http://www.drderma.com.br'
+    SITE_URL = 'http://example.drderma.bertoche.com.br'
 else:
     SITE_URL = 'http://127.0.0.1'
 

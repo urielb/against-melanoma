@@ -1,16 +1,16 @@
 
 SITE_ID = 1
 
-DEBUG = False
+DEBUG = True
 TEMPLATE_DEBUG = DEBUG
-SERVE_MEDIA = False
-SERVE_STATIC = False
+SERVE_MEDIA = True
+SERVE_STATIC = True
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'drderma_prod',
-        'USER': 'drderma_prod',
-        'PASSWORD': 'WUDv827nYaxKX9jS',
+        'NAME': 'drderma',
+        'USER': 'drderma',
+        'PASSWORD': 'drderma',
         'HOST': '',
         'PORT': '',
     }
